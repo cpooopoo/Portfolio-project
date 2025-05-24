@@ -4,12 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PORTFOLIO</title>
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
 </head>
 <body>
-
-    <!-- NAVBAR -->
+<!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
         <div class="container-fluid">
           <a class="navbar-brand fw-bold" href="#">CPP</a>
@@ -38,8 +36,7 @@
         </div>
       </nav>
     <!-- NAVBAR -->
-
-    <!-- LANDING SECTION -->
+<!-- LANDING SECTION -->
      <div class="p-3 bg-secondary vh-100" id="home">
         <h1 class="text-center text-light"></h1>
          <div class="p-3 bg-secondary vh-100" id="home">
@@ -47,17 +44,14 @@
         <div>
             <h1 class="d-flex justify-content-center align-items-center">Welcome to my Portfolio!</h1>
         </div>
-
-    <div class="d-flex flex-column justify-content-center align-items-center">
+<div class="d-flex flex-column justify-content-center align-items-center">
     <img src="c:\Users\Carlene\Downloads\me.jpg" class="img-fluid bg-dark p-3 mt-4 rounded-circle" width="200" height="350" >
     <h1 class="text-light mt-3 display-2">Carlene Pineda</h1>
     <h2 class="text-warning mt-3">I put the car in 'car'-isma. eyyy</h2>
 </div>
-
-     </div>
+ </div>
     <!-- LANDING SECTION -->
-
-    <!-- ABOUT SECTION -->
+<!-- ABOUT SECTION -->
     <div class="p-3 bg-dark vh-100 d-flex flex-column align-items-center" id="about">
     <hr>
     <h2 class="text-center text-warning mb-4">learn more about me!</h2>
@@ -71,12 +65,10 @@
     <h3 class="text-light text-center mt-4">Keep it Simple.</h3>
 </div>
     <!-- ABOUT SECTION -->
-
-    <!-- PROJECT SECTION -->
+ <!-- PROJECT SECTION -->
     <div class="p-3 bg-light vh-100 d-flex flex-column justify-content-center align-items-center" id="projects">
         <h1 class="text-center text-warning">Projects</h1>
-
-        <div class="d-flex gap-5 p-5">
+ <div class="d-flex gap-5 p-5">
             <!-- FIRST CARD -->
         <div class="card" style="width: 18rem;">
             <img src="c:\Users\Carlene\Pictures\Screenshots\portfolio.png" class="card-img-top" alt="...">
@@ -87,8 +79,7 @@
             </div>
           </div>
          <!-- FIRST CARD -->
-
-         <!-- FIRST CARD -->
+ <!-- FIRST CARD -->
         <div class="card" style="width: 18rem;">
             <img src="c:\Users\Carlene\Pictures\Screenshots\figma.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -98,8 +89,7 @@
             </div>
           </div>
          <!-- FIRST CARD -->
-
-         <!-- FIRST CARD -->
+  <!-- FIRST CARD -->
         <div class="card" style="width: 18rem;">
             <img src="c:\Users\Carlene\Pictures\Screenshots\FIGMAAAAAAAA.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -112,10 +102,8 @@
         </div>
      </div>
     <!-- PROJECT SECTION -->
-
-    <!--TOOLS SECTION-->
-
-     <div class="p-3 bg-dark vh-100" id="tools">
+<!--TOOLS SECTION-->
+<div class="p-3 bg-dark vh-100" id="tools">
         <h1 class="text-center text-light">Tools I use</h1>
         <div class="d-flex justify-content-center gap-4 mb-5">
             <a href="https://www.figma.com/" target="_blank">
@@ -128,12 +116,9 @@
                 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaQDG.nPeYqpMXSUQbV6ZbBJ.x5paJaMkB.CqTHcVYjDMA_oHUGwcgBmCV1lBqllIkZNgsGwVB9CAeOnzGwIb1o-&format=source" width="150" height="250" class="img-fluid rounded-circle shadow-lg" alt="LinkedIn">
             </a>
         </div>
-
-    <!--TOOLS SECTION-->
-    
-    <!-- CONTACT SECTION -->
-
-    <div class="p-3 bg-secondary vh-100" id="contacts">
+ <!--TOOLS SECTION-->
+     <!-- CONTACT SECTION -->
+<div class="p-3 bg-secondary vh-100" id="contacts">
         <h1 class="text-center text-warning">Contact Me^^</h1>
         <div class="d-flex justify-content-center gap-4 mb-5">
             <a href="https://www.facebook.com/" target="_blank">
@@ -146,8 +131,7 @@
                 <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="50" height="50" class="img-fluid rounded-circle shadow-lg" alt="gmail">
             </a>
         </div>
-
-        <div class="container">
+<div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-8 col-lg-6 form-container-custom">
                     <h2 class="text-center text-dark mb-4">Get in Touch!</h2>
@@ -172,13 +156,11 @@
             </div>
         </div>
     </div>
-
-    <!--CONTACT SECTION-->
-
+ <!--CONTACT SECTION-->
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
 </body>
 </html>
 
