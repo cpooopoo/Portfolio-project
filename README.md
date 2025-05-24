@@ -70,7 +70,7 @@
         <h1 class="text-center text-warning">Projects</h1>
  <div class="d-flex gap-5 p-5">
             <!-- FIRST CARD -->
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width:">
             <img src="c:\Users\Carlene\Pictures\Screenshots\portfolio.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Portfolio</h5>
@@ -80,7 +80,7 @@
           </div>
          <!-- FIRST CARD -->
  <!-- FIRST CARD -->
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width:">
             <img src="c:\Users\Carlene\Pictures\Screenshots\figma.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">UA Login</h5>
@@ -90,7 +90,7 @@
           </div>
          <!-- FIRST CARD -->
   <!-- FIRST CARD -->
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width:">
             <img src="c:\Users\Carlene\Pictures\Screenshots\FIGMAAAAAAAA.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Cafe Website</h5>
